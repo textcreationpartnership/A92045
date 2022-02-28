@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A farther account of the dispensaries at the College of Physicians, and in St. Martins Lane, Westminster and others to be erected in and about London, for the service of the publick.</title>
+            <author>Royal College of Physicians of London.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92045</idno>
+            <idno type="STC">Wing R2104A</idno>
+            <idno type="STC">ESTC R232139</idno>
+            <idno type="EEBO-CITATION">99897668</idno>
+            <idno type="PROQUEST">99897668</idno>
+            <idno type="VID">133372</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92045)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133372)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2517:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A farther account of the dispensaries at the College of Physicians, and in St. Martins Lane, Westminster and others to be erected in and about London, for the service of the publick.</title>
+                  <author>Royal College of Physicians of London.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in the Wellcome Institute for the History of Medicine, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Royal College of Physicians of London --  Early works to 1800.</term>
+               <term>Hospitals --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:133372:1" rendition="simple:additions"/>
+            <head>A farther ACCOUNT OF THE DISPENSARIES AT THE <hi>College</hi> of <hi>Phyſicians,</hi> and in St. <hi>Martins Lane, Weſt<g ref="char:EOLhyphen"/>minſter,</hi> and others to be Erected in and about <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> for the Service of the Publick.</head>
+            <epigraph>
+               <q>
+                  <l>Les Apoticairs d' Angleterre ſont une grande Compagnie</l>
+                  <l>des Coupeurs des Bourſes, &amp; les Medicins les y aident.</l>
+                  <bibl>
+                     <hi>Guy Patin.</hi> Med. Prof. Reg. Pariſ. <hi>Lett. 410.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <p>THE value of Health, which is Univerſally acknowledg'd to be a Bleſ<g ref="char:EOLhyphen"/>ſing, is yet more intrinſecally known to thoſe, that have labour'd under Sickneſs, who all unanimouſly confeſs the great uſefulneſs of <hi>Phyſick,</hi> Skilfully Directed, and faithfully Adminiſtred.</p>
+            <p>Yet notwithſtanding the general agreement about the uſefulneſs of that Art, it has of late Years fallen in our Nation (where perhaps it has been carried the far<g ref="char:EOLhyphen"/>theſt towards Perfection of any part in the World) under a ſort of neglect, next to Contempt, to the great hinderance of the improvement of the Art it ſelf, diſcoura<g ref="char:EOLhyphen"/>gement of its true Profeſſors, and the general injury of the People.</p>
+            <p>The cauſes of this decay, tho' in themſelves obvious enough, are yet generally unheeded. Becauſe the Perſons moſt immediately concern'd, (I mean the Sick) having ſcarce any underſtanding of the Art, are uſually miſled by im<g ref="char:EOLhyphen"/>plicite Faith in the confident, falſe pretenſions of ſome, or the officious recom<g ref="char:EOLhyphen"/>mendation of others, who act with a different view from that, which they are ſuppos'd to have by the ſick Perſon, who ſeldom truſts his own Judgment, or con<g ref="char:EOLhyphen"/>ſults his own Reaſon in that, which moſt nearly concerns his Life.</p>
+            <p>Thus are the Sick abuſed, by the ſelf intereſted recommendation of the <hi>Apothe<g ref="char:EOLhyphen"/>caries,</hi> who have ingroſs'd to themſelves the ſole Adminiſtration of Phyſick, and for the moſt part the Direction of it, both which were antiently lodg'd in the Phyſi<g ref="char:EOLhyphen"/>cian alone, tho' ſince unhappily ſeparated to the diſcredit of the Art, the injury of the Phyſicians, and the irreparable damage of their Patients, as will appear.</p>
+            <p>While the Medicines in uſe here were but few, the providing and ſelling of 'em was a part of the Grocer's Trade, and Buſineſs. But Med'cines in time multiplying conſiderably, they were thought to require the whole Care, and Attendance of him that dealt in 'em, that they might be faithfully made up, and carefully deliver'd in juſt Weight and Meaſure, as preſcrib'd by the <hi>Phyſician.</hi>
+            </p>
+            <p>Thus were the <hi>Ap<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thecaries</hi> ſeparated from the <hi>Grocers,</hi> that they might give their whole attendance in their Shops on the making, and diſpenſing Medicines, care<g ref="char:EOLhyphen"/>fully and faithfully; which reaſon holds much more ſtrongly, at this day up<g ref="char:EOLhyphen"/>on the account of the vaſt increaſe of the <hi>Galencial</hi> Compoſitions, the Invention or Introduction here, of the numerous Tribe of <hi>Chymical</hi> Preparations, the daily familiar Cuſtom of the Phyſicians, to order <hi>Extemporary</hi> Compound Medicines, a miſtake in any of which may, and does often prove fatal to the Patient.</p>
+            <p>Since this ſeparation, they have multiplied ſo exceſſively, that at the time of obtaining their <hi>Charter</hi> they were 114, a prodigious number in reſpect of what moſt well regulated Cities abroad find ſufficient, divers of which (as big as <hi>London</hi> was at that time) do to this day reſtrain 'em to a Number, not exceeding Four or
+<pb n="2" facs="tcp:133372:2"/>Six. But at preſent they are encreas'd to near 1000, all Partners computed, who, tho' join'd in a Shop, have Families to maintain ſeverally.</p>
+            <p>This overſwarm of <hi>Apothecaries,</hi> not having whereupon to ſubſiſt at Home, by degrees, and in proceſs of time over-ran their Neighbours. For the honeſt pro<g ref="char:EOLhyphen"/>fits of their Employment being too narrow to Support ſuch Numbers in their preſent way of Living, they have of a long time endeavour'd by all manner of Artifices to encroach upon the <hi>Phyſicians,</hi> and exact upon the <hi>Sick,</hi> their <hi>Cuſtomers.</hi>
+            </p>
+            <p>In order to which they began firſt by <hi>Officious Viſits,</hi> under pretence of carry<g ref="char:EOLhyphen"/>ing the Medicines themſelves, to procure the reputation of careful Men, tho' in ſo doing they <hi>chang'd Offices</hi> with their <hi>Boys,</hi> and left them at Home to do the <hi>Du<g ref="char:EOLhyphen"/>ty</hi> of the <hi>Maſter,</hi> while themſelves ran on the Errands. Yet by this they gain'd opportunities of inſinuating themſelves into Nurſes, Servants, and other weak Per<g ref="char:EOLhyphen"/>ſons, frequently attending on ſick People, and by their means to be admitted to give their Opinion, and thence <hi>under pretence of good Husbandry for the Patient,</hi> to repeat the <hi>Phyſicians</hi> Bills without his Order, and ſo at length to preſcribe without his Advice.</p>
+            <p>Upon the ſame pretence of good Husbandry for the Patient, they wrought themſelves into the ſole care of ſuch ſlight Indiſpoſitions, as of courſe were likely to determine in a ſhort time without Medicine, which they failed not to improve in<g ref="char:EOLhyphen"/>to terrible Diſeaſes, and mighty Cures, by Frighting the Sick, and thoſe about 'em with Malignity, and diſmal Prognoſticks. This gave 'em credit and authority enough with the Patient, to cenſure the Bills of Phyſicians, that did not pleaſe 'em, and be<g ref="char:EOLhyphen"/>hind their Backs to deliver Opinions contrary to the <hi>Phyſician's;</hi> to do which requir'd no Judgment, a little craft ſufficing: For they had it in their Power in many caſes, to diſappoint the <hi>Phyſician</hi> in his Prognoſtick by falſifying the Medicines preſcrib'd, a fault they knew how to remedy for themſelves, or the favourite they help'd in, (when the other was diſmis'd) by making up the ſame Bill truly and well. Thus they made profit of their crimes, and gain'd the repute of <hi>honeſt knowing</hi> Men, by the <hi>skill</hi> of the <hi>Phyſician</hi> at the expence of his Fame and Intereſt.</p>
+            <p>This point once gain'd, no bounds cou'd hold 'em; there was nothing in <hi>Pra<g ref="char:EOLhyphen"/>ctice</hi> ſo bold, which they dare not venture at, nothing in <hi>Pharmacy</hi> ſo corrupt which they wou'd not admit. They were now <hi>Phyſicians,</hi> and their Buſineſs was abroad, and the Boy at home, that ſcarce cou'd write his Name, was good enough for an <hi>Apothecary.</hi> But as this new Dignity was not to be ſupported without an extraordi<g ref="char:EOLhyphen"/>nary Expence, New Methods were to be Invented, to lay an additional Duty upon their <hi>Medicines,</hi> to be paid by their <hi>Cuſtomers,</hi> now their <hi>Patients. Decoctions</hi> and <hi>Juleps</hi> muſt be divided into <hi>Draughts,</hi> and <hi>Electuaries</hi> into <hi>Boles.</hi> By this means a <hi>Quart</hi> of <hi>Bitter Decoction,</hi> very well paid for at a <hi>Shilling,</hi> wou'd fetch <hi>Twenty,</hi> and a Pound of <hi>Venice</hi> Treacle, perhaps worth <hi>Four or Five Shillings,</hi> as <hi>many Pounds,</hi> and ſo for all the reſt.</p>
+            <p>Nor was this all: For the Patient was ſure not only to pay extortion for what he had, but even for what he had not, while <hi>Ruſſian Caſtor, Pearl,</hi> and <hi>Engliſh Saffron,</hi> &amp;c. were put into the Preſcription, and <hi>New England Caſtor, Oyſter Shells,</hi> and <hi>Turmerick,</hi> &amp;c. into the Medicines. But what was yet worſe, if under the direction of the <hi>Apothecary</hi> alone, or any <hi>Confederate</hi> of his recommendation, the Patient was ſure to be Cramm'd with abundance of nauſeous, unneceſſary, and conſequently hurtful ſtuff, till either his Stomack, his Purſe, or the Grave put a ſtop to further Charges, which was done only to ſwell the account, and raiſe the <hi>Apothecary</hi>'s gain, whoſe Fees by theſe Arts generally treble the <hi>Phyſician</hi>'s under whom he is Employ'd, <hi>ſo obliging muſt the</hi> Phyſician <hi>be, that expects the recommendation of an</hi> Apothecary: Nay, farther ſome Apothecaries are, like Conſcientious Men, arriv'd at taking <hi>Fees in ready Mo<g ref="char:EOLhyphen"/>ny,</hi> without making any <hi>Allowance,</hi> or <hi>Diſcount</hi> in the <hi>Bill.</hi>
+            </p>
+            <p>A farther, and perhaps yet greater Miſchief, ariſing from the <hi>Apothecaries</hi> abſenting themſelves from the Duty of their Shops, is, that they can't attend the making of the ſtanding Shop Compoſitions, which require great Care and Exactneſs to be well made, and many of 'em having been bred under Maſters of that Humour, know not how to do it were they diſpos'd. This obliges 'em to furniſh themſelves from the Whole<g ref="char:EOLhyphen"/>ſale <hi>Apothecaries,</hi> a ſort of Men that deal in corrupt, ſophiſticated Ware, with which the Retail ones content themſelves, out of Avarice, Ignorance, or Lazi<g ref="char:EOLhyphen"/>neſs, to the Deſtruction of the People. Hence it is plain, that moſt of 'em can't warrant the Phyſick they Sell, nor the Phyſician depend upon it, moſt of it being made by the <hi>Wholeſale Man,</hi> and <hi>Chymiſt,</hi> and all of it diſpens'd by the heedleſs <hi>Boy,</hi> whom every amuſement diverts from his attention to his Buſineſs, and any ſlight reſemblance betrays into fatal miſtakes; eſpecially as their preſent uſe is,
+<pb n="3" facs="tcp:133372:2"/>of putting Medicines indifferently into the Pots and Glaſſes, mark'd with other Names, which inſenſibly leads the <hi>Boys</hi> into very dangerous Errors.</p>
+            <p>Nor is it from the corruption of the <hi>Wholeſale Men,</hi> and the miſtakes of <hi>Boys</hi> only, that the Sick are endanger'd. The unfaithfulneſs of the Shops in <hi>Sophiſti<g ref="char:EOLhyphen"/>cating</hi> Drugs, <hi>Subſtituting</hi> one thing for another, <hi>vending periſh'd</hi> Medicines, and making up Bills <hi>contrary</hi> to the direction of the Preſcriber, is grown ſo ge<g ref="char:EOLhyphen"/>neral, and ſo notorious, that the ableſt Phyſicians ſcarce know, what they are to expect from the certaineſt of their Preſcriptions, as they are made up in the Shops.</p>
+            <p>Another great miſchief of the moſt Ruinous conſequence to the Sick, is the ear<g ref="char:EOLhyphen"/>ly Officious Viſits, which to ſhew their Impertinent Care, the <hi>Apothecaries</hi> make in a Morning, and by their Unſeaſonable, Injudicious Prattle, Rob the Patient of the only time, wherein after the fatigue of an unquiet Night, he is uſually inclin'd to Reſt, which temper, thus ruffled by the Officious Intruſion of the <hi>Apothecary,</hi> is not again to be recover'd in the whole Day, whence frequently follow a perpetual <hi>Inquie<g ref="char:EOLhyphen"/>tude, Delirouſneſs,</hi> &amp;c. And the <hi>Apothecary</hi> reaps Profit, and Thanks for his Miſ<g ref="char:EOLhyphen"/>chievous oſtentation of care.</p>
+            <p>Theſe Abuſes were long ſince ſeen thro' and condemn'd by many <hi>Phyſicians,</hi> who all along abhored ſuch ſcandalous practices. But the <hi>Apothecaries,</hi> whoſe in<g ref="char:EOLhyphen"/>tereſt it was to oppoſe any Reformation, enter'd into an Aſſociation to de<g ref="char:EOLhyphen"/>cry, and (as far as in them lay) to turn out of Buſineſs all Phyſicians, that ſhou'd have the Honeſty, and Courage to diſavow theſe ſiniſter Practices, and to recom<g ref="char:EOLhyphen"/>mend thoſe only, that would confederate with 'em, and Countenance, Abett, and Juſtifie their Irregular proceedings.</p>
+            <p>To this end <hi>Liſts</hi> were handed through their whole <hi>Company,</hi> wherein the <hi>Phyſicians</hi> were all <hi>Nam'd,</hi> and <hi>Diſtinguiſhing Marks</hi> prefix'd to their <hi>Names,</hi> that thoſe who adher'd firmly to the Intereſt of their Patients, and the Honour of their Faculty, might by all poſſible Shifts, and Artifices, be ſupplanted in their Buſineſs, and thoſe that were in League with the <hi>Apothecaries,</hi> to ſupport, and promote their enormous Gains, and Abuſes might be brought over their Heads.</p>
+            <p>This Method faſten'd to 'em divers, who were ready to ſacrifice their <hi>Patients,</hi> and proſtitute their own Honour, and Conſciences to the Service of the <hi>Apothecaries,</hi> and their own immediate Profit. By theſe was introduc'd the Faſhion of writing ſuch expenſive long Bills, that he that did not order enough every Day for the <hi>Apothecary</hi> to charge in ſlight caſes at <hi>Twenty, Thirty,</hi> or <hi>Forty Shillings,</hi> was ſure to be aſpers'd by him to the Patient as a Trifler, one that neither took the Caſe right, nor or<g ref="char:EOLhyphen"/>der'd any thing to the Purpoſe; tho' in moſt caſes it is difficult for the Patient to take in one day to the real value of <hi>Half a Crown, Two Shillings,</hi> or in many even of <hi>One Shilling</hi> prudently Preſcrib'd, and moderately Rated.</p>
+            <p>For theſe Reaſons are theſe Men cry'd up by 'em, their Fame is proclaim'd in <hi>Coffee-houſes,</hi> and whiſper'd in the Ears of dying Men, as the only Perſons able to put a ſtop to Fate, and reprieve from the Grave. To carry on this Intrigue the more ſmoothly, they have their <hi>Tavern</hi> Cabals with the <hi>Apothecaries,</hi> where they invent ſcandal on the reſt of the <hi>Phyſicians,</hi> and contrive Ways and Means to ſpread and diffuſe it, in order to deſtroy their Credit.</p>
+            <p>In return of theſe Favours the Confederate <hi>Phyſicians</hi> are oblig'd, whenever they are call'd in by the <hi>Apothecaries,</hi> where no <hi>Phyſician</hi> has been conſulted in the caſe, to Approve and Juſtifie the Practice of the <hi>Apothecary,</hi> tho' the Patient be dying of bad or improper Medicines, or for want of ſufficient help in due time. But if any other <hi>Phyſician,</hi> whom the <hi>Apothecary</hi> does not like, has been firſt ad<g ref="char:EOLhyphen"/>vis'd with, his Method, tho' never ſo proper, and well directed, is to be Con<g ref="char:EOLhyphen"/>demn'd, and his Medicines laid aſide, and the <hi>poor Patient,</hi> if he lives, is to run the Gauntlet afreſh thro' all the Forms of Phyſick.</p>
+            <p>Theſe Artifices have frightn'd many Gentlemen, of better principles than to com<g ref="char:EOLhyphen"/>ply with 'em in all their meaſures of iniquity, from aſſerting themſelves, and diſa<g ref="char:EOLhyphen"/>buſing the World with that Vigour and Courage, that they ought to do, for fear of being work'd out of their Practice.</p>
+            <p>Yet there wants not a ſufficient Number of <hi>Phyſicians</hi> of Integrity, and Reſo<g ref="char:EOLhyphen"/>lution to redreſs theſe Grievances, and to aſſiſt all Perſons of what Rank or Con<g ref="char:EOLhyphen"/>dition ſoever, who are willing to open their Eyes to their own Intereſt. In order whereunto they have erected an <hi>Office</hi> at the <hi>College</hi> of <hi>Phyſicians,</hi> call'd the <hi>Diſpenſa<g ref="char:EOLhyphen"/>ry,</hi> where all Officinal Compoſitions, <hi>Galenical,</hi> and <hi>Chymical</hi> are faithfully pre<g ref="char:EOLhyphen"/>par'd, of the beſt Drugs, and where already near Twenty Thouſand Preſcriptions have been made up, and deliver'd, and about Three Hundred Bills are Weekly diſpens'd by Servants of their own, and under their own Inſpection, at a Price
+<pb n="4" facs="tcp:133372:3"/>put upon the Bill by the Preſcriber, which is at leaſt <hi>Fifteen Shillings</hi> in the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lower, than the moſt modeſt Rates of the <hi>Apothecaries.</hi>
+            </p>
+            <p>The extraordinary relief, that vaſt Numbers of People have found, from their Diſtempers at ſuch eaſe Rates by the <hi>Diſpenſary,</hi> has brought ſo much Buſineſs to it, that it begins to grow impracticable to ſerve 'em all at one place. And there<g ref="char:EOLhyphen"/>fore, that no Perſon of what condition ſoever, may be deny'd the benefit of Good Medicines at eaſie Prices, the Phyſicians have reſolv'd to erect divers others in ſeveral parts of the Town.</p>
+            <p>In perſuance of this reſolution they have already fitted up another in St. <hi>Mar<g ref="char:EOLhyphen"/>tins</hi> Lane, <hi>Weſtminſter,</hi> where conſtant attendance is given by their Servants, in or<g ref="char:EOLhyphen"/>der to make up all ſuch Bills, as ſhall come to their Hands, from the Phyſicians Sub<g ref="char:EOLhyphen"/>ſcribing, and where likewiſe the Phyſicians themſelves will meet every <hi>Monday,</hi> and <hi>Thurſday</hi> in the Afternoon, for the particular Service of the Poor, where ſuch of 'em, as reſort to 'em there, may have their Advice <hi>Gratis,</hi> as at the College on <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> and <hi>Saturdays.</hi>
+            </p>
+            <p>And that theſe <hi>Diſpenſaries</hi> may be made as ſerviceable as poſſible to the Publick, the Subſcribers have there lodg'd very conſiderable <hi>Arcana</hi> in Practice unknown to any <hi>Apothecary,</hi> of which they were before Maſters, but unwilling to proſtitute to the Adulterations, and Corruptions, which other Medicines undergo in the Shops. The Subſcribers likewiſe have reſolv'd, according to the Antient Laudable Practice, of the <hi>Phyſicians</hi> of <hi>London,</hi> to ſet apart ſome Hours in the Morning and Afternoon, for the Service of ſuch, as in the <hi>Leſs acute</hi> and <hi>Chronical</hi> Caſes, ſhall think fit to conſult 'em at Home.</p>
+            <p>The <hi>Apothecaries</hi> have made their Boaſt, that they Command all the Families in Town, in reſpect to Phyſick. But unleſs the People are reſolv'd to be led by the Noſe, they will have no cauſe to brag at that rate for the future, the advantages of theſe <hi>Diſpenſaries</hi> to all Mankind, that are viſited with Sickneſs, are ſo ſelf-evi<g ref="char:EOLhyphen"/>dent. For unleſs Men have a mind to purchaſe Diſeaſes, or take Phyſick out of wantoneſs, they will ſhut the <hi>Apothecaries</hi> out of their Doors, till they ſhall keep to their Shops, and Carefully, and Faithfully, make and diſpenſe ſuch Medicines, as ſhall be order'd by Phyſicians, make their prices ſupportable to the People, lay aſide their diſhoneſt Arts of ſwelling their Bills, and Debauching Members of the College, to the Scandal of their Profeſſion, and Deſtruction of their Patients.</p>
+            <p>If any Gentlemen ſhall think the foregoing Charge upon the <hi>Apothecaries,</hi> and their Confederates too ſevere, or the Expreſſions too harſh, let 'em reſt aſſur'd that every particular therein ſhall be made undeniably clear from ſufficient Evidence of Fact, whenever the <hi>Apothecaries</hi> ſhall call for ſuch Proofs. As for the Expreſſion, let 'em but conſider how rudely and ſcandalouſly the <hi>Honeſt Phyſicians</hi> have been, and are daily Treated, both in Publick and Private, by the <hi>Apothecaries</hi> and <hi>their Adherents,</hi> and they will excuſe ſome warmth, (if any appear) eſpecially when the general Good is in view, provided it tranſports 'em not beyond the Bounds of Truth and Decency, which, 'tis hop'd, are not trangreſs'd in this Paper.</p>
+            <p>There remains one Objection, which ſticks to ſome compaſſionate Perſons, otherwiſe convinc'd of the Juſtice and neceſſity of this Deſign; which is, that ſhou'd it obtain univerſally in this Town, the <hi>Apothecaries,</hi> who are a great Compa<g ref="char:EOLhyphen"/>ny, muſt be inevitably ruin'd. But the Anſwer is eaſie, that if to Reform 'em, be to Ruin 'em, they are ripe for Deſtruction: For no Civil well Conſtituted Go<g ref="char:EOLhyphen"/>vernment, ought to ſuffer one Party of Men to Live upon the Spoil and Plunder of the reſt, eſpecially in their Diſtreſs: 'Tis like Robbing Houſes on Fire, under pre<g ref="char:EOLhyphen"/>tence of help. If therefore the <hi>Apothecaries</hi> think a Reformation of theſe Abuſes of ſuch ruinous Conſequence, they ought to conſider, how by retrenching their Extravagancies to ſuit their living to honeſt Profit, or in time to betake them<g ref="char:EOLhyphen"/>ſelves to ſome more Honeſt Employment.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
